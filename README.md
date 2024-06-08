@@ -1,6 +1,6 @@
 Shop information
 
-Baker:
+Dealer:
 Mr. Yusri (Profasional dealer)
 
 operation hour:
